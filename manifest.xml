@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<module>
+        <type>extension</type>
+        <name>AsteriskCIDLookup</name>
+        <label>Asterisk Caller ID Lookup</label>
+        <parent>Tools</parent>
+        <version>0.0.1</version>
+        <dependencies>
+                <vtiger_version>6.2.0</vtiger_version>
+                <vtiger_max_version>6.*</vtiger_max_version>
+        </dependencies>
+</module>
